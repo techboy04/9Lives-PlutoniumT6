@@ -11,4 +11,3 @@ Big credits goes out to Vulture and Homura for the original code.
 Download 9lives.gsc and put it in your Plutonium T6 scripts folder
 
 ```%localappdata%\Plutonium\storage\t6\scripts\zm\zm_prison\```
-THE SCRIPT MUST BE IN ZM_PRISON OR ELSE YOULL GET ERRORS!
