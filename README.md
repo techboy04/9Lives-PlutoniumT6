@@ -1,5 +1,5 @@
 # 9 Lives but it has a HUD
-This version is based off of Vulture's 9 Lives script but has a HUD that shows Afterlife lives.
+This version is based off of Vulture and Homura's 9 Lives script but has a HUD that shows Afterlife lives: https://forum.plutonium.pw/topic/449/release-mob-of-the-dead-mod-a-cat-has-9-lives?_=1680711781067
 
 Nothing special here just wanted to adda HUD since they couldn't figure it out then, its not EXACTLY what it was wanted but its better than a repeating Println nontheless.
 
